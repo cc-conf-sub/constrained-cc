@@ -57,5 +57,5 @@ PKwik.java
 Plots
 -----
 
-constrained_cc_plots.ipynb
+k_cc_plots.ipynb
 -- Jupyter Notebook for data plots
